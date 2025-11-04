@@ -8,3 +8,4 @@ __pycache__/
 
 # Archivos de credenciales
 credenciales.json
+secrets.toml
