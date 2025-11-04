@@ -1,0 +1,10 @@
+# Entornos virtuales y caché
+.venv/
+__pycache__/
+.env
+
+# Configuración de Streamlit
+.streamlit/
+
+# Archivos de credenciales
+credenciales.json
