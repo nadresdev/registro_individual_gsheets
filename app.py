@@ -129,5 +129,6 @@ if st.button("Registrar horario"):
     st.success("✅ Registro guardado correctamente en Google Sheets.")
     
     # Mostrar confirmación de lo guardado
-    st.info(f"**Datos guardados:** {fila}")
+    st.info(f"**Datos guardados:** {fila}")  
+    
 # ───────────────────────────────────────────────
